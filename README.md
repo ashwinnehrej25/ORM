@@ -43,8 +43,11 @@ class amazon_DBAdmin(admin.ModelAdmin):
 
      
 ## OUTPUT
-<img width="1890" height="1001" alt="Screenshot 2025-11-21 203337" src="https://github.com/user-attachments/assets/26547a76-9de0-4aa9-9172-bc1c0e43f3f8" />
-<img width="1805" height="1022" alt="Screenshot 2025-11-21 203440" src="https://github.com/user-attachments/assets/44dc7495-424b-4c59-95f2-5c908b626257" />
+
+<img width="1890" height="1001" alt="Screenshot 2025-11-21 203337" src="https://github.com/user-attachments/assets/706b0669-8776-4f93-ae77-d20a50c6c814" />
+
+
+<img width="1805" height="1022" alt="Screenshot 2025-11-21 203440" src="https://github.com/user-attachments/assets/0069161b-06ee-4a21-8d72-41b9f6ebe746" />
 
 
 
